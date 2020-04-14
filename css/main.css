@@ -1,7 +1,7 @@
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400);
 
-:root{
+:root {
   --first-color: #e4bb23;
   --first-color-hover: #bc9a1d;
   --default-links: #eeeeee;
@@ -26,8 +26,7 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-  font-size: 10px;  
-  
+  font-size: 10px;
 }
 
 a {
@@ -302,36 +301,36 @@ main {
 }
 
 footer {
-	padding: 10px 0;
+  padding: 10px 0;
 }
 
 footer .container {
   margin: 10px auto;
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 footer ul {
-	display: flex;
-	list-style: none;
-	font-size: 30px;
+  display: flex;
+  list-style: none;
+  font-size: 30px;
 }
 
 footer li a {
-	color: var(--little-highlight);
-	margin-left: 20px;
-	text-decoration: none;
+  color: var(--little-highlight);
+  margin-left: 20px;
+  text-decoration: none;
 }
 
 footer li a .fa-twitter:hover {
-	color: var(--twitter);
+  color: var(--twitter);
 }
 
-footer li a .fa-facebook-official:hover{
-	color: var(--facebook);
+footer li a .fa-facebook-official:hover {
+  color: var(--facebook);
 }
 
 footer li a .fa-instagram:hover {
-	color: var(--instagram);
+  color: var(--instagram);
 }
